@@ -1,0 +1,10 @@
+@media (max-width: 640px) {
+    .small-login {
+      font-size: 0.5rem; 
+    }
+    
+    .small-github-icon {
+      font-size: 4rem; 
+    }
+  }
+  
